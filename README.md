@@ -9,6 +9,7 @@
   ![Version](https://img.shields.io/badge/version-1.0.1-blue.svg?style=flat-square)
   ![Electron](https://img.shields.io/badge/Electron-33.0.0-47848F.svg?style=flat-square&logo=electron)
   ![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
+  ![Use](https://img.shields.io/badge/Free%20-Use-49d14b?style=flat-square)
   ![Platform](https://img.shields.io/badge/Platform-Windows%2010/11-0078D6?style=flat-square)
 
 </div>
