@@ -9,7 +9,7 @@
   ![Version](https://img.shields.io/badge/version-1.0.1-blue.svg?style=flat-square)
   ![Electron](https://img.shields.io/badge/Electron-33.0.0-47848F.svg?style=flat-square&logo=electron)
   ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
-  ![Platform][def]
+  [![Platform][def]](https://img.shields.io/badge/Platform-Windows%2010/11-0078D6?style=flat-square)
 
 </div>
 
@@ -27,51 +27,6 @@
 - **🔄 Otomatik Güncelleme**: Arka planda gerekli araçları (`yt-dlp`) otomatik olarak indirir ve güncel tutar.
 - **📊 Canlı Takip**: İndirme hızını, dosya boyutunu ve tahmini bitiş süresini anlık olarak gösterir.
 - **🛡️ Güvenli**: İndirme işlemi sırasında olası hataları yönetir ve sizi bilgilendirir.
-
----
-
-## 🛠️ Kurulum ve Geliştirme
-
-Bu projeyi geliştirmek veya kaynak kodundan çalıştırmak için aşağıdaki adımları izleyin.
-
-### Gereksinimler
-- [Node.js](https://nodejs.org/) (v16 veya üzeri)
-- [Git](https://git-scm.com/)
-
-### Adım 1: Depoyu Klonlayın
-```bash
-git clone https://github.com/ebuword/streamsaver.git
-cd streamsaver
-```
-
-### Adım 2: Bağımlılıkları Yükleyin
-```bash
-npm install
-```
-
-### Adım 3: Uygulamayı Başlatın
-```bash
-npm start
-```
-
-### 📦 Prodüksiyon Derlemesi (.exe)
-Uygulamayı dağıtılabilir bir Windows kurulum dosyasına dönüştürmek için:
-```bash
-npm run dist
-```
-Oluşturulan dosya `dist` klasöründe yer alacaktır.
-
----
-
-## 🗺️ Yol Haritası (Roadmap)
-
-Gelecek sürümlerde eklenmesi planlanan özellikler:
-
-- [ ] **🎬 TMDB Entegrasyonu**: İndirilen içeriğin isminden otomatik film/dizi tespiti (Poster, Açıklama, IMDb Puanı).
-- [ ] **🎨 Tema Motoru**: Kullanıcıların kendi renk paletlerini oluşturabilmesi.
-- [ ] **⏯️ İndirme Kontrolü**: Duraklat (Pause) ve Devam Et (Resume) özellikleri.
-- [ ] **📋 İndirme Kuyruğu**: Birden fazla dosyayı sıraya alma ve yönetme.
-- [ ] **📚 Yönerge Sayfası**: Kullanıcıların indirme süreçlerini daha iyi anlayabilmesi için adım adım yönerge sayfası. Hangi siteden indirileceği, hangi dosyaların indirileceği, indirme seçenekleri gibi bilgiler içerir.
 
 ---
 
